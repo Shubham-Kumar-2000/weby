@@ -33,7 +33,7 @@ class Example extends React.Component {
                 </div>
                 <div className="form-group">
                   <label htmlFor="query">Query</label>
-                  <input type="text" className="form-control" id="query" />
+                  <input type="email" className="form-control" id="query" />
                 </div>
                 <div className="btn" style={{opacity:0.7,padding:"0px"}}>
                   <input type="submit" className="form-control" id="sub" value='Contact'/>
