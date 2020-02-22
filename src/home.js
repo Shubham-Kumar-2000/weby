@@ -14,7 +14,7 @@ class Home extends React.Component {
 }
 componentDidMount(){
   console.log('shubham');
-  alert('hover each section to see effects and please reload the page while checking responsive')
+  alert('hover each section to see effects and please reload the page while checking responsive. Moreover images of achivements are clickable')
 }
     render(){
         return(
